@@ -34,7 +34,7 @@ China's Commercial Open-Source Software Companies
 同时参考了OSS Capital的定义-"If a given company heavily relies on and/or builds upon an OSS project as the fundamental building block justifying its existence, that company is definitionally a COSS company." 
 
 ### 联系我
-我关注中国商业开源软件，创业或者融资欢迎与我联系
+我关注中国商业开源软件，Email或微信与我联系
 
 Email: peterchen@morningsidevc.com
 
