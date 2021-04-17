@@ -45,6 +45,6 @@ China's Commercial Open-Source Software Companies
 ### 联系我
 我关注中国商业开源软件，Email或微信与我联系
 
-Email: peterchen@morningsidevc.com
+Email: chenzhepeter@gmail.com
 
 Wechat: PeterZheChen
